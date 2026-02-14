@@ -1,2 +1,2 @@
 # prisoners-dataset
-this is a dataset and eda foe
+this is a Dataset that is about prisoners with EDA
